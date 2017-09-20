@@ -1,1 +1,3 @@
 tpc.googlesyndication.com
+cdn.flashtalking.com
+tpc.googlesyndication.com
